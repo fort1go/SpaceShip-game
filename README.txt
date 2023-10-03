@@ -1,11 +1,11 @@
-Руководство по использованию приложения
+Guide to using the application
 
-В главном меню есть 2 кнопки:
-    1 - Escape (для выхода)
-    2 - Enter (для начала игры)
+There are 2 buttons in the main menu:
+     1 - Escape (to exit)
+     2 - Enter (to start the game)
 
-Нажав на Enter вы начнёте игру. Её суть заключается в уничтожении всех врагов и препятствий на своём пути.
-По мере уничтожения врагов вы получаете очки. Также вражеские корабли будут атаковать вас, будьте внимательны.
-Помочь вам могут PowerUp'ы, которые могут дать вам щит или доп урон.
+By pressing Enter you will start the game. Its essence is to destroy all enemies and obstacles in your path.
+As you destroy enemies, you receive points. Also, enemy ships will attack you, be careful.
+PowerUps can help you, they can give you a shield or extra damage.
 
-Будем надеяться, что вы поняли как пользоваться приложением, желаем отлично провести время!
+Let's hope you understand how to use the app and have a great time!
